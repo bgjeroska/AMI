@@ -1,1 +1,1 @@
-# AMI
+# Applied Machine Intelligence
